@@ -2,7 +2,7 @@
 Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
 > No tools available at this point for other Operating Systems!
 
-**Watch this [YouTube video](https://youtu.be/)**
+**Watch this [YouTube video](https://youtu.be/zKqtNKpamCc)**
 
 ## Flashing Steps:
 1. Download the above [xinaboxFlashTool.exe](/xinaboxFlashTool.exe) file
