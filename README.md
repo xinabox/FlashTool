@@ -27,9 +27,9 @@ Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
 **Note: You must fill in `DeviceName` and `Index`, otherwise you will not see any data**
 
 ## LEDs:
-- `Solid GREEN` means that the WiFi is connected
+- `Solid` &#x1f34f; means that the WiFi is connected
 - `Flashing` &#x1F534; means lost WiFi connectivity
-- `Flashing BLUE` means conectivity to our MQTT server is lost
+- `Flashing` &#x1F535; means conectivity to our MQTT server is lost
 
 ## USB Driver
 If you have issues with USB drivers for the **☒IP01**, then go here [☒IP01](https://github.com/xinabox/xIP01), and install the driver from the `drivers` folder.
