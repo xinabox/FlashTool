@@ -1,8 +1,8 @@
 # FlashTool
 Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
-> No tools available as this point for other Operating Systems!
+> No tools available at this point for other Operating Systems!
 
-**Watch this on this [YouTube video](https://youtu.be/StTqXEQ2l-Y)**
+**Watch this [YouTube video](https://youtu.be/StTqXEQ2l-Y)**
 
 ## Flashing Steps:
 1. Download the above .EXE file
@@ -24,10 +24,20 @@ Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
 1. On some devices a _captive portal_ will show up, but if doesn’t, simply browse to [http://192.168.4.1](http://192.168.4.1)
 1. Follow the configuration screens and for better usage, complete all fields as accurate as possible
 
-**`Note: You must fill in _DeviceName_ and _Index_, otherwise you will not see any data`**
+**Note: You must fill in `DeviceName` and `Index`, otherwise you will not see any data**
+
+## LEDs:
+- `Solid GREEN` means that the WiFi is connected
+- `Flashing RED` means lost WiFi connectivity
+- `Flashing BLUE` means conectivity to our MQTT server is lost
 
 ## USB Driver
 If you have issues with USB drivers for the **☒IP01**, then go here [☒IP01](https://github.com/xinabox/xIP01), and install the driver from the `drivers` folder.
+
+## WiFi Connection
+- Since the **☒CW01** doesn't have a keyboard and a screen, and still needs to be configured, the **☒CW01** will initiate an _access point_ or _hotspot_ allowing you to configure the unit.
+- Certain devices doesn't like to connect to a _hotspot_ without a password, so we have given a simple passord. Since the **☒CW01** doesn't connect to the internet during this process, there are no security risk in this phase.
+- The **☒CW01** only supports `WPA/WPA2 Personal`, which means just a Password. We are working on `WPA/WPA2 Enterprise`, where both Username and Password is used.
 
 # License
 See the [LICENSE](/LICENSE) "MIT License” file for license rights and limitations (MIT).
