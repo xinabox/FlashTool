@@ -4,7 +4,7 @@ Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
 
 **Watch this [YouTube video](https://youtu.be/zKqtNKpamCc)**
 
-## Flashing Steps: [Video 4m12s](https://youtu.be/zKqtNKpamCc)
+### Flashing Steps: [Video 4m12s](https://youtu.be/zKqtNKpamCc)
 1. Download the above [xinaboxFlashTool.exe](/xinaboxFlashTool.exe) file
 1. Virus Check the `xinaboxFlashTool.exe` file
 1. Connect **☒IP01** and **☒CW01** together
@@ -16,7 +16,7 @@ Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
 1. Wait for the green bar to complete
 1. Unplug **☒IP01** and **☒CW01** 
 
-## Configuration Steps: [Video 4m12s](https://youtu.be/zKqtNKpamCc?t=4m12s)
+### Configuration Steps: [Video 4m12s](https://youtu.be/zKqtNKpamCc?t=4m12s)
 > These steps can also be used to reconfigure the **☒CW01** to - for example - new coordinates or new WiFi
 
 1. Connect **☒IP01**, **☒SW01**, **☒SL01** and **☒CW01** together
@@ -27,21 +27,21 @@ Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
 
 **Note: You must fill in `DeviceName` and `Index`, otherwise you will not see any data**
 
-## Dashboard Steps: [Video 8m33s](https://youtu.be/zKqtNKpamCc?t=8m33s)
+### Dashboard Steps: [Video 8m33s](https://youtu.be/zKqtNKpamCc?t=8m33s)
 1. Watch the video at least the first 1-2 min
 
-#Notes:
+# Notes:
 
-## LEDs:
+### LEDs:
 - `Solid` &#x1F535; means _hotspot_ active, waiting for your connection to `XINABOX_<number>`. Timeout after 3 min.
 - `Solid` &#x1f34f; means that the WiFi is connected
 - `Flashing` &#x1F534; means lost WiFi connectivity
 - `Flashing` &#x1F535; means conectivity to our MQTT server is lost
 
-## USB Driver
+### USB Driver
 If you have issues with USB drivers for the **☒IP01**, then go here [☒IP01](https://github.com/xinabox/xIP01), and install the driver from the `drivers` folder.
 
-## WiFi Connection
+### WiFi Connection
 - Since the **☒CW01** doesn't have a keyboard and a screen, and still needs to be configured, the **☒CW01** will initiate an _access point_ or _hotspot_ allowing you to configure the unit.
 - Certain devices doesn't like to connect to a _hotspot_ without a password, so we have given a simple password. Since the **☒CW01** doesn't connect to the internet during this process, there are no security risk in this phase.
 - The **☒CW01** only supports `WPA/WPA2 Personal`, which means just a Password. We are working on `WPA/WPA2 Enterprise`, where both Username and Password is used.
