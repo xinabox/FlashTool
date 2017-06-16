@@ -28,6 +28,7 @@ Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
 **Note: You must fill in `DeviceName` and `Index`, otherwise you will not see any data**
 
 ## LEDs:
+- `Solid` &#x1F535; means _hotspot_ acive, wainting for your connection to `XINABOX_<number>`. Timeout after 3 min.
 - `Solid` &#x1f34f; means that the WiFi is connected
 - `Flashing` &#x1F534; means lost WiFi connectivity
 - `Flashing` &#x1F535; means conectivity to our MQTT server is lost
