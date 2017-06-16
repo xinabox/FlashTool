@@ -1,6 +1,7 @@
 # FlashTool
 Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
 > No tools available as this point for other Operating Systems!
+
 **Watch this on this [YouTube video](https://youtu.be/StTqXEQ2l-Y)**
 
 ## Flashing Steps:
@@ -19,14 +20,14 @@ Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
 > These steps can also be used to reconfigure the **☒CW01** to for example new coordinates or new WiFi
 
 1. Insert into USB power source
-1. Within 3 minutes, connect to the **☒CW01**, connect a device to WiFi AP: `XINABOX_<number>`. Password is `**password**`
+1. Within 3 minutes, connect to the **☒CW01**, connect a device to WiFi AP: `XINABOX_<number>`. Password is `password`
 1. On some devices a _captive portal_ will show up, but if doesn’t, simply browse to [http://192.168.4.1](http://192.168.4.1)
 1. Follow the configuration screens and for better usage, complete all fields as accurate as possible
 
-`**Note: You must fill in _DeviceName_ and _Index_, otherwise you will not see any data**`
+**`Note: You must fill in _DeviceName_ and _Index_, otherwise you will not see any data`**
 
 ## USB Driver
-If you have issues with USB drivers for the **☒IP01**, then go here [☒IP01](/xinabox/xIP01), and install the driver from the `drivers` folder.
+If you have issues with USB drivers for the **☒IP01**, then go here [☒IP01](https://github.com/xinabox/xIP01), and install the driver from the `drivers` folder.
 
 # License
 See the [LICENSE](/LICENSE) "MIT License” file for license rights and limitations (MIT).
