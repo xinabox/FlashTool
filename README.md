@@ -29,4 +29,4 @@ Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
 If you have issues with USB drivers for the **☒IP01**, then go here [☒IP01](/xinabox/xIP01), and install the driver from the `drivers` folder.
 
 # License
-See the [LICENSE](/xinabox/FlashTool/License) "MIT License” file for license rights and limitations (MIT).
+See the [LICENSE](/xinabox/FlashTool/blob/master/LICENSE) "MIT License” file for license rights and limitations (MIT).
