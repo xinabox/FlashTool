@@ -28,7 +28,7 @@ Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
 
 ## LEDs:
 - `Solid GREEN` means that the WiFi is connected
-- `Flashing RED` means lost WiFi connectivity
+- `Flashing &#x1F534;` means lost WiFi connectivity
 - `Flashing BLUE` means conectivity to our MQTT server is lost
 
 ## USB Driver
