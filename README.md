@@ -5,7 +5,7 @@ Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
 **Watch this [YouTube video](https://youtu.be/)**
 
 ## Flashing Steps:
-1. Download the above [xinaboxFlashTool.exe] (/xinaboxFlashTool.exe) file
+1. Download the above [xinaboxFlashTool.exe](/xinaboxFlashTool.exe) file
 1. Virus Check the `xinaboxFlashTool.exe` file
 1. Connect **☒IP01**, **☒SW01**, **☒SI01** and **☒CW01**
 1. Insert **☒IP01** (_with the other ☒CHIPs_) into an available USB port
