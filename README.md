@@ -4,7 +4,8 @@ Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
 
 **Watch this [YouTube video](https://youtu.be/zKqtNKpamCc)**
 
-### Flashing Steps: [Video 4m12s](https://youtu.be/zKqtNKpamCc)
+### Flashing Steps: 
+[Video 0m-4m12s](https://youtu.be/zKqtNKpamCc)
 1. Download the above [xinaboxFlashTool.exe](/xinaboxFlashTool.exe) file
 1. Virus Check the `xinaboxFlashTool.exe` file
 1. Connect **☒IP01** and **☒CW01** together
@@ -16,7 +17,8 @@ Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
 1. Wait for the green bar to complete
 1. Unplug **☒IP01** and **☒CW01** 
 
-### Configuration Steps: [Video 4m12s](https://youtu.be/zKqtNKpamCc?t=4m12s)
+### Configuration Steps: 
+[Video 4m12s-8m33s](https://youtu.be/zKqtNKpamCc?t=4m12s)
 > These steps can also be used to reconfigure the **☒CW01** to - for example - new coordinates or new WiFi
 
 1. Connect **☒IP01**, **☒SW01**, **☒SL01** and **☒CW01** together
@@ -27,7 +29,8 @@ Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
 
 **Note: You must fill in `DeviceName` and `Index`, otherwise you will not see any data**
 
-### Dashboard Steps: [Video 8m33s](https://youtu.be/zKqtNKpamCc?t=8m33s)
+### Dashboard Steps: 
+[Video 8m33s-](https://youtu.be/zKqtNKpamCc?t=8m33s)
 1. Watch the video at least the first 1-2 min
 
 # Notes:
