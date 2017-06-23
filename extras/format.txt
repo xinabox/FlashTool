@@ -1,0 +1,1 @@
+<img src="image_location" width="300" align="right">
