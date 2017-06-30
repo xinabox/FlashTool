@@ -21,11 +21,12 @@ Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
 [Video 4m12s-8m33s](https://youtu.be/zKqtNKpamCc?t=4m12s)
 > These steps can also be used to reconfigure the **☒CW01** to - for example - new coordinates or new WiFi
 
-1. Connect **☒IP01**, **☒SW01**, **☒SL01** and **☒CW01** together
+1. Connect **☒IP01**, **☒SW01**, **☒SL01**, **☒CW01** and optionally **☒OD01** together
 1. Insert into USB power source
 1. Within 3 minutes, connect to the **☒CW01**, connect a device to WiFi AP: `XINABOX_<number>`. Password is `password`
 1. On some devices a _captive portal_ will show up, but if doesn’t, simply browse to [http://192.168.4.1](http://192.168.4.1)
 1. Follow the configuration screens and for better usage, complete all fields as accurate as possible
+1. Upon successful connection, the OLED display **☒OD01** will show connectivity information for 1 min, before collecting data.
 
 **Note: You must fill in `DeviceName` and `Index`, otherwise you will not see any data**
 
