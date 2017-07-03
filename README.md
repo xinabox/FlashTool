@@ -12,6 +12,7 @@ Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
 1. Insert **☒IP01** and **☒CW01** into an available USB port
 1. Wait for eventual drivers to be installed, if driver installation fail, goto [USB Driver](#usb-driver)
 1. Execute the `xinaboxFlashTool.exe` file
+1. Choose Firmware. 
 1. Choose your COM port. If no COM port is available, goto [USB Driver](#usb-driver)
 1. Click `Flash`
 1. Wait for the green bar to complete
