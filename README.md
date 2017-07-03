@@ -35,6 +35,9 @@ Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
 [Video 8m33s-](https://youtu.be/zKqtNKpamCc?t=8m33s)
 1. Watch the video at least the first 1-2 min
 
+### Captive Portal Steps:
+<img src="extras/HomePage" width="300" align="right">
+
 # Notes:
 
 ### LEDs:
