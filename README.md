@@ -1,4 +1,5 @@
-# FlashTool
+[![HitCount](http://hits.dwyl.io/xinabox/Flashtool.svg)](http://hits.dwyl.io/xinabox/Flashtool)
+# FlashTool 
 Microsoft Windows Tool for Flashing ☒CW01 using ☒IP01
 > No tools available at this point for other Operating Systems!
 
